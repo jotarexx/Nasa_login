@@ -88,7 +88,7 @@ body {
 .login__container--register a:hover {
   text-decoration: none;
 }
-.input{   /* CORREO / CONTRASEÑA */
+.input{  
   background-color: transparent;
   border-left: 0px;
   border-top: 0px;

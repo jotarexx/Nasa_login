@@ -99,7 +99,7 @@ body {
   margin-bottom: 20px;
   padding: 0px 10px;
   height: 50px;
-  outline: none;       /* SACA MARCA ESPACIO */
+  outline: none; 
 }
 ::placeholder{
   color: white;

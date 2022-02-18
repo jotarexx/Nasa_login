@@ -90,7 +90,7 @@ body {
 }
 .input{  
   background-color: transparent;
-  color: white;
+  input type="color";
   border-left: 0px;
   border-top: 0px;
   border-right: 0px;
